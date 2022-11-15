@@ -1,7 +1,7 @@
 ---
 title: "Group Project Update"
 subtitle: "STT2860 F22 Project 02"
-author: "Authors: ALL GROUP MEMBER NAMES HERE"
+author: "Authors: Nichole Johnson, Taylor Lautz, Lauren Edleman"
 date: "`r format(Sys.time(), '%A, %B %d, %Y @ %I:%M %p')`"
 output: 
   html_document: 
@@ -14,18 +14,18 @@ output:
 
 Refer back to your original work plan. Has anything changed? Who has completed what portions of the project? Explain.
 
-ERASE THIS TEXT AND ANSWER THE QUESTION
+We will all be responsible for completing work on this project. Nichole Johnson will be the one to submit the group portion, work plan, and work update of this project. We will all individually upload our final portions of our individual parts. If we split up work, we plan on communicating to each other on how to do so if we decide to split up work outside of class at all.
 
 **Completion Timeline Update**
 
 Refer back to your original timeline. Has anything changed? What pieces of the project are done and what are still left to do? Explain.
 
-ERASE THIS TEXT AND ANSWER THE QUESTION
+We plan on completing this project during class on 11/8 and 11/10. If we are not able to finish our group portion during these class times, we plan to communicate over text and make our next steps and plans on how we should move forward on finishing this project together. 
 
 **Communication Update**
 
 Refer back to your communication plan. Has anything changed? Has everyone communicated in an effective and timely manner? Be honest! Explain.
 
-ERASE THIS TEXT AND ANSWER THE QUESTION
+We plan to communicate via text message if we need to discuss the project outside of class.
 
 ***

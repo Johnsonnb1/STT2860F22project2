@@ -1,7 +1,7 @@
 ---
 title: "Becoming a Data Scientist"
 subtitle: "STT2860 Project 01 Fall 2022"
-author: "YOUR NAME HERE"
+author: "Nichole Johnson"
 date: "`r format(Sys.time(), '%A, %B %d, %Y @ %I:%M %p')`"
 output: 
   html_document: 
@@ -12,43 +12,49 @@ output:
 
 **Q1: What is the name of the person interviewed?**
 
-ANSWER:
+ANSWER: The video I watched was an interview with David Meza
 
 **Q2: Why did you choose the particular interview you did?**
 
-ANSWER:
+ANSWER: It listed Meza as the Chief Knowledge Architect at NASA, which sounded really cool. I thought it would be interesting to learn more about what he does, and why he chose this career path!
+
 
 **Q3: Does the person consider themselves a data scientist?**
 
-ANSWER:
+ANSWER: Meza considers himself a hybrid or a quasi-data scientist, or maybe even an operational data scientist. He said this was because he does much more than just data science in his day-to-day work. 
+
 
 **Q4: What is their formal and self-taught education in data science?**
 
-ANSWER:
+ANSWER: Meza said he started out interested in data. He said as a young student he always asked a lot of questions. He went to the University of Huston getting a degree in engineering. He switched his degree from that to computer science and then added on management information systems so he could have a broad range of knowledge across the information technology spectrum.
 
 **Q5: What has been their career path? Did they start off in data science?**
 
-ANSWER:
+ANSWER: Meza started at the University of Huston and from graduation from his ungrad he was able to go on to work in a finance field for about eight years. He then went on to work as a manager in a non-profit organization. While at the non-profit he began working on database development. From there Meza landed a job with Nasa as a technical assistant, he did this for about a year and then he landed another position with Nasa for six months, until he went back to his first position with Nasa.  
 
 **Q6: What programs/technologies to they use when working in data science?**
 
-ANSWER:
+ANSWER: He mostly used Access report and excel with visualizations. He looked into other software programs, but he had limited funding so he only had access to those two platforms for the most of his work. 
 
 **Q7: What is one interesting (to you) data science problem they have worked on?**
 
-ANSWER:
+ANSWER:  I find it very interesting that he was able to go from a non-profit organization to Nasa. One of the things he did while at Nasa was collect and record data on the trainings that austronauts have to complete before they can go into space. I thought that this position sounded super interesting and would be a cool career to have. Although he didn’t stick with this position, even Meza said that this position was interesting. 
+
 
 **Q8: Are there any specific pieces of advice they gave that inspire/resonate with you?**
 
-ANSWER:
+ANSWER: Meza said that he was always a curious child and adult. He said that he was always asking questions which sometimes made him stand out. He went on to say that it is okay to stand out and not be like everyone else. I thought that this was cool because going into the teaching profession it is good to show students that we are all different and that this is a good thing!
+
 
 **Q9: Was there anything that surprised you or that you particularly identified with?**
 
-ANSWER:
+ANSWER: I have been surprised by how many different career opportunities he has been given and taken. While I am not interested in the datascience field it is clear that it is very fast paced and not for the weak. I find this field and all of its job opportunities very interesting!
 
-**Q10: Q10: How did this person path differ from the previous interview you watched?**
 
-ANSWER:
+**Q10: How did this person's path differ from the previous interview you watched?**
+
+ANSWER: Meza’s path was different but also similar to the path that Jasmin Dumas took. Meza only went for his undergraduate degree and straight into the workfield after it; whereas, Dumas went into a masters program right after her undergrad. The similarities I saw were that they both had several positions that led them to where they are currently. 
+
 
 <hr>
 
